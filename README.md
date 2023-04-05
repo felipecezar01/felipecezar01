@@ -1,7 +1,7 @@
 ### Olá, eu sou Felipe Cézar 👋
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipecezar01&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipecezar01&layout=compact&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=felipecezar01&show_icons=false&theme=tokyonight&_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipecezar01&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 
 <div>
