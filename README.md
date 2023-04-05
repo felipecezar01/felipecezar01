@@ -1,6 +1,6 @@
 ### Olá, eu sou Felipe Cézar 👋
-<p>Estou a procura do meu primeiro emprego no desenvolvimento Front-end 👨‍💻</p>
-<p>Cursando Análise e Desenvolvimento de Sistemas 4/5 🏫</p>
+<!-- <p>Estou a procura do meu primeiro emprego no desenvolvimento Front-end 👨‍💻</p>
+<p>Cursando Análise e Desenvolvimento de Sistemas 4/5 🏫</p> -->
 <div>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=felipecezar01&show_icons=false&theme=tokyonight&_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipecezar01&layout=compact&langs_count=16&theme=tokyonight"/>
