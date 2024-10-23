@@ -22,6 +22,45 @@
   </tr>
 </table>
 
+<p align="center">
+  Contact Me
+</p>
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://x.com/techlife_fc" target="_blank">
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" width="150" height="40"/>
+      </a>
+      <br>X
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/felipecezarcruz/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="150" height="40"/>
+      </a>
+      <br>LinkedIn
+    </td>
+    <td align="center">
+      <a href="https://www.youtube.com/channel/UCpRn4TDgEjlSld_sd5YHZyA" target="_blank">
+        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" width="150" height="40"/>
+      </a>
+      <br>YouTube
+    </td>
+    <td align="center">
+      <a href="https://dev.to/felipecezar01" target="_blank">
+        <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" width="150" height="40"/>
+      </a>
+      <br>Dev.to
+    </td>
+  </tr>
+</table>
+</div>
+
+
+
+
+
 <h1 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Tech Stack</h1>
 
 <h3 align="center">Web Development</h3>
