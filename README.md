@@ -22,9 +22,7 @@
   </tr>
 </table>
 
-<p align="center">
-  Contact Me
-</p>
+## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px" height="40px"> For More Information, Please Check Out or Connect With Me Via
 
 <div align="center">
 <table>
@@ -201,10 +199,6 @@
 </div>
 
 ##
-
-<div>
-  <a href="https://www.linkedin.com/in/felipecezarcruz/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
 
 <div align="center">
   <h3><b>📍 Profile Visitor Count</b></h3>
