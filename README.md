@@ -6,35 +6,20 @@
 
 ## 📈 GitHub Activity Graph:
 
-<table>
-    <tr>
-        <td align="center">
-            <a href="https://github.com/felipecezar01#gh-light-mode-only">
-                <img src="https://github-readme-stats.vercel.app/api?username=felipecezar01&show_icons=true&theme=default&include_all_commits=true#gh-light-mode-only" alt="My GitHub Stats"/>
-            </a>
-            <a href="https://github.com/felipecezar01#gh-dark-mode-only">
-                <img src="https://github-readme-stats.vercel.app/api?username=felipecezar01&show_icons=true&theme=tokyonight&include_all_commits=true#gh-dark-mode-only" alt="My GitHub Stats"/>
-            </a>
-        </td>
-        <td rowspan="2" align="center">
-            <a href="https://github.com/felipecezar01#gh-light-mode-only">
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipecezar01&theme=default&langs_count=8#gh-light-mode-only" alt="My GitHub Stats"/>
-            </a>
-            <a href="https://github.com/felipecezar01#gh-dark-mode-only">
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipecezar01&theme=tokyonight&langs_count=8#gh-dark-mode-only" alt="My GitHub Stats"/>
-            </a>
-        </td>
-    </tr>
-    <tr>
-        <td align="center">
-            <a href="https://github.com/felipecezar01#gh-light-mode-only">
-                <img src="https://github-readme-streak-stats.herokuapp.com/?user=felipecezar01&theme=default"/>
-            </a>
-            <a href="https://github.com/felipecezar01#gh-dark-mode-only">
-                <img src="https://github-readme-streak-stats.herokuapp.com/?user=felipecezar01&theme=tokyonight"/>
-            </a>
-        </td>
-    </tr>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
+
+<table border="0" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipecezar01&theme=tokyonight&langs_count=10&hide_border=true&no-bg=true&no-frame=true" alt="Languages"/>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=felipecezar01&theme=tokyonight&hide_border=true" alt="Streak"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=felipecezar01&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&no-frame=true" alt="Stats"/>
+    </td>
+  </tr>
 </table>
 
 
