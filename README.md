@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0F2027,203A43,2C5364&height=110&section=header" width="100%">
+
 ![Banner](https://github.com/felipecezar01/felipecezar01/blob/main/GIFs/megifzinho.gif?raw=true)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BB52&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+FELIPE+CEZAR;I+am+a+Backend+Developer;Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
