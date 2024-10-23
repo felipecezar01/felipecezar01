@@ -1,4 +1,4 @@
-![Banner](https://GIFs/megifzinho.gif)
+![Banner]([https://GIFs/megifzinho.gif](https://github.com/felipecezar01/felipecezar01/blob/main/GIFs/megifzinho.gif?raw=true))
 
 <p>Se você gostou de algum repositório, deixe sua estrelinha para me ajudar!🌟</p>
 <div>
