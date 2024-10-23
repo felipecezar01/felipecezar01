@@ -4,18 +4,42 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BB52&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+FELIPE+CEZAR;I+am+a+Backend+Developer;Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
 
-<p>Se você gostou de algum repositório, deixe sua estrelinha para me ajudar!🌟</p>
-<div>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=felipecezar01&show_icons=false&theme=tokyonight&_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipecezar01&layout=compact&langs_count=16&theme=tokyonight"/>
-</div>
+## 📈 GitHub Activity Graph:
 
-<!-- <div>
-  <img align="center" alt="Javascript" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg'/>
-  <img align="center" alt="html" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg'/>
-  <img align="center" alt="css" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg'/>
-  <img align="center" alt="sass" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg'/>
-</div> -->
+<table>
+    <tr>
+        <td align="center">
+            <a href="https://github.com/felipecezar01#gh-light-mode-only">
+                <img src="https://github-readme-stats.vercel.app/api?username=felipecezar01&show_icons=true&theme=default&include_all_commits=true#gh-light-mode-only" alt="My GitHub Stats"/>
+            </a>
+            <a href="https://github.com/felipecezar01#gh-dark-mode-only">
+                <img src="https://github-readme-stats.vercel.app/api?username=felipecezar01&show_icons=true&theme=tokyonight&include_all_commits=true#gh-dark-mode-only" alt="My GitHub Stats"/>
+            </a>
+        </td>
+        <td rowspan="2" align="center">
+            <a href="https://github.com/felipecezar01#gh-light-mode-only">
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipecezar01&theme=default&langs_count=8#gh-light-mode-only" alt="My GitHub Stats"/>
+            </a>
+            <a href="https://github.com/felipecezar01#gh-dark-mode-only">
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipecezar01&theme=tokyonight&langs_count=8#gh-dark-mode-only" alt="My GitHub Stats"/>
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="https://github.com/felipecezar01#gh-light-mode-only">
+                <img src="https://github-readme-streak-stats.herokuapp.com/?user=felipecezar01&theme=default"/>
+            </a>
+            <a href="https://github.com/felipecezar01#gh-dark-mode-only">
+                <img src="https://github-readme-streak-stats.herokuapp.com/?user=felipecezar01&theme=tokyonight"/>
+            </a>
+        </td>
+    </tr>
+</table>
+
+
+<p>Se você gostou de algum repositório, deixe sua estrelinha para me ajudar!🌟</p>
+
 </div>
   <div style="display: inline_block;">
   <kbd align="center">
