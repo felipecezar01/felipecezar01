@@ -1,4 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=46A0FA&height=120&section=header&text=Felipe+Cezar+Cruz&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
 
 ![Banner](https://github.com/felipecezar01/felipecezar01/blob/main/GIFs/megifzinho.gif?raw=true)
@@ -74,7 +73,7 @@
   <a href="https://www.linkedin.com/in/felipecezarcruz/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3198FF&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
 
 
 
