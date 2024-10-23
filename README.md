@@ -1,4 +1,5 @@
-### Olá, eu sou Felipe Cézar 👋
+![Banner](https://GIFs/megifzinho.gif)
+
 <p>Se você gostou de algum repositório, deixe sua estrelinha para me ajudar!🌟</p>
 <div>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=felipecezar01&show_icons=false&theme=tokyonight&_all_commits=true&count_private=true"/>
