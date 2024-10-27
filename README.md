@@ -1,6 +1,10 @@
 <!-- Header animation -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
 
+>[!TIP]  
+>Recarregue a página e veja a animação de onda mudar de cor.
+
+
 <!-- GIF Banner -->
 ![Banner](https://github.com/felipecezar01/felipecezar01/blob/main/GIFs/megifzinho.gif?raw=true)
 
