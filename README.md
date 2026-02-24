@@ -13,8 +13,6 @@
 - 🌱 Currently diving deeper into **data science, machine learning, and cloud architecture**
 - 🤝 Open to collaborations on interesting projects
 
----
-
 ## 🤝 Connect With Me
 
 <div align="center">
@@ -35,8 +33,6 @@
   </tr>
 </table>
 </div>
-
----
 
 ## 🛠️ Tech Stack
 
@@ -170,16 +166,12 @@
 </table>
 </div>
 
----
-
 ## 📊 GitHub Statistics
 
 <p align="center">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=felipecezar01&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
   <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=felipecezar01&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Top Languages"/>
 </p>
-
----
 
 ## 🤖 AI Co-workers
 
@@ -208,21 +200,15 @@
 </table>
 </div>
 
----
-
 ## 📈 Contribution Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=felipecezar01&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)
-
----
 
 ## 🌐 3D Contribution Calendar
 
 <p align="center">
   <img src="https://github.com/felipecezar01/felipecezar01/blob/output/profile-night-rainbow.svg" alt="3D Contribution Calendar"/>
 </p>
-
----
 
 ## 🐍 Contribution Snake
 
@@ -232,15 +218,9 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/felipecezar01/felipecezar01/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
----
-
-## 📍 Profile Visitors
-
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=felipecezar01.felipecezar01" alt="visitor badge"/>
 </p>
-
----
 
 <!-- Footer animation -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
