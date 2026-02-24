@@ -186,17 +186,23 @@
 <div align="center">
 <table>
   <tr>
-    <td align="center">
-      <img width="60" height="60" src="https://img.icons8.com/3d-fluency/94/3d-claude-ai-logo.png" alt="Claude"/>
-      <br><b>Claude</b>
+    <td align="center" width="160">
+      <br>
+      <img width="70" height="70" src="https://img.icons8.com/3d-fluency/94/3d-claude-ai-logo.png" alt="Claude"/>
+      <br><br><b>Claude</b>
+      <br>
     </td>
-    <td align="center">
-      <img width="60" height="60" src="https://img.icons8.com/ios/50/chatgpt.png" alt="ChatGPT"/>
-      <br><b>ChatGPT</b>
+    <td align="center" width="160">
+      <br>
+      <img width="70" height="70" src="https://img.icons8.com/material-outlined/24/chatgpt.png" alt="ChatGPT"/>
+      <br><br><b>ChatGPT</b>
+      <br>
     </td>
-    <td align="center">
-      <img width="60" height="60" src="https://img.icons8.com/skeuomorphism/32/gemini-ai.png" alt="Gemini"/>
-      <br><b>Gemini</b>
+    <td align="center" width="160">
+      <br>
+      <img width="70" height="70" src="gemini-color.svg" alt="Gemini"/>
+      <br><br><b>Gemini</b>
+      <br>
     </td>
   </tr>
 </table>
