@@ -181,6 +181,22 @@
 
 ---
 
+## 📈 Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=felipecezar01&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)
+
+---
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/felipecezar01/felipecezar01/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/felipecezar01/felipecezar01/blob/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/felipecezar01/felipecezar01/blob/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
+---
+
 ## 📍 Profile Visitors
 
 <p align="center">
