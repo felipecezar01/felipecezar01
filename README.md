@@ -194,7 +194,7 @@
     </td>
     <td align="center" width="160">
       <br>
-      <img width="70" height="70" src="https://img.icons8.com/material-outlined/24/chatgpt.png" alt="ChatGPT"/>
+      <img width="70" height="70" src="chatgpt.svg" alt="ChatGPT"/>
       <br><br><b>ChatGPT</b>
       <br>
     </td>
