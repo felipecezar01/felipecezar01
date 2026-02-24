@@ -1,0 +1,11 @@
+{
+  "githubUserName": "felipecezar01",
+  "startForegroundColor": "#a960ee",
+  "endForegroundColor": "#ff333d",
+  "bgColor": "#1a1b27",
+  "dotColor": "#38bdae",
+  "lineColor": "#bf91f3",
+  "textColor": "#70a5fd",
+  "drawShadow": true,
+  "showBorder": false
+}
