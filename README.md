@@ -181,6 +181,29 @@
 
 ---
 
+## 🤖 AI Co-workers
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center">
+      <img width="60" height="60" src="https://img.icons8.com/3d-fluency/94/3d-claude-ai-logo.png" alt="Claude"/>
+      <br><b>Claude</b>
+    </td>
+    <td align="center">
+      <img width="60" height="60" src="https://img.icons8.com/ios/50/chatgpt.png" alt="ChatGPT"/>
+      <br><b>ChatGPT</b>
+    </td>
+    <td align="center">
+      <img width="60" height="60" src="https://img.icons8.com/skeuomorphism/32/gemini-ai.png" alt="Gemini"/>
+      <br><b>Gemini</b>
+    </td>
+  </tr>
+</table>
+</div>
+
+---
+
 ## 📈 Contribution Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=felipecezar01&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)
