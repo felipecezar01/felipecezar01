@@ -216,6 +216,14 @@
 
 ---
 
+## 🌐 3D Contribution Calendar
+
+<p align="center">
+  <img src="https://github.com/felipecezar01/felipecezar01/blob/output/profile-night-rainbow.svg" alt="3D Contribution Calendar"/>
+</p>
+
+---
+
 ## 🐍 Contribution Snake
 
 <picture>
