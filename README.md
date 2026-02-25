@@ -36,33 +36,22 @@
 
 ## 🛠️ Tech Stack
 
-<h3 align="center">Web Development</h3>
+<h3 align="center">💻 Software Engineer</h3>
 
 <div align="center">
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <thead>
-    <tr>
-      <th colspan="5" align="center" style="color: white;">Frontend</th>
-    </tr>
-  </thead>
   <tbody>
     <tr>
       <td align="center">
-        <a href="https://reactjs.org/">
-          <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50"/>
-        </a>
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50"/>
         <br>React
       </td>
       <td align="center">
-        <a href="https://www.typescriptlang.org/">
-          <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" height="50"/>
-        </a>
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" height="50"/>
         <br>TypeScript
       </td>
       <td align="center">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-          <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50"/>
-        </a>
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50"/>
         <br>JavaScript
       </td>
       <td align="center">
@@ -73,93 +62,128 @@
         <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="50" height="50" alt="CSS"/>
         <br>CSS
       </td>
-    </tr>
-  </tbody>
-</table>
-</div>
-
-<div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <thead>
-    <tr>
-      <th colspan="5" align="center" style="color: white;">Backend</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
       <td align="center">
-        <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="50" height="50" alt="Node.js"/><br>Node.js
+        <img src="https://skillicons.dev/icons?i=java" width="50" height="50" alt="Java"/>
+        <br>Java
       </td>
       <td align="center">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" width="50" height="50" alt="Django"/><br>Django
+        <img src="https://skillicons.dev/icons?i=tailwind" width="50" height="50" alt="Tailwind"/>
+        <br>Tailwind
       </td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=flask" width="50" height="50" alt="Flask"/><br>Flask
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=express" width="50" height="50"/><br>Express
-      </td>
-      <td align="center">
-        <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" width="50" height="50" alt="Spring"/><br>Spring
+        <img src="https://skillicons.dev/icons?i=kotlin" width="50" height="50" alt="Kotlin"/>
+        <br>Kotlin
       </td>
     </tr>
-  </tbody>
-</table>
-</div>
-
-<h3 align="center">Data & Databases</h3>
-
-<div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <thead>
-    <tr>
-      <th colspan="6" align="center" style="color: white;">Data Analysis & Databases</th>
-    </tr>
-  </thead>
-  <tbody>
     <tr>
       <td align="center">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50"/><br>MySQL
+        <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="50" height="50" alt="Node.js"/>
+        <br>Node.js
       </td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50"/><br>MongoDB
+        <img src="https://techstack-generator.vercel.app/django-icon.svg" width="50" height="50" alt="Django"/>
+        <br>Django
       </td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="50" height="50"/><br>PostgreSQL
+        <img src="https://skillicons.dev/icons?i=flask" width="50" height="50" alt="Flask"/>
+        <br>Flask
       </td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" height="50"/><br>Python
+        <img src="https://skillicons.dev/icons?i=express" width="50" height="50" alt="Express"/>
+        <br>Express
       </td>
       <td align="center">
-        <img src="https://cdn.worldvectorlogo.com/logos/pandas.svg" alt="Pandas" width="50" height="50"/><br>Pandas
+        <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" width="50" height="50" alt="Spring"/>
+        <br>Spring
       </td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=r" alt="R" width="50" height="50"/><br>R
+        <img src="https://skillicons.dev/icons?i=dart" width="50" height="50" alt="Dart"/>
+        <br>Dart
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=flutter" width="50" height="50" alt="Flutter"/>
+        <br>Flutter
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=react" width="50" height="50" alt="React Native"/>
+        <br>React Native
       </td>
     </tr>
   </tbody>
 </table>
 </div>
 
-<h3 align="center">Cloud Computing & DevOps</h3>
+<h3 align="center">📊 Data Science</h3>
 
 <div align="center">
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <thead>
-    <tr>
-      <th colspan="3" align="center" style="color: white;">Cloud & Containers</th>
-    </tr>
-  </thead>
   <tbody>
     <tr>
       <td align="center">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50"/><br>Docker
+        <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" height="50"/>
+        <br>Python
       </td>
       <td align="center">
-        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="50" height="50"/><br>Kubernetes
+        <img src="https://skillicons.dev/icons?i=r" alt="R" width="50" height="50"/>
+        <br>R
       </td>
       <td align="center">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="50" height="50"/><br>AWS
+        <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="50" height="50"/>
+        <br>TensorFlow
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="50" height="50"/>
+        <br>PyTorch
+      </td>
+      <td align="center">
+        <img src="https://cdn.worldvectorlogo.com/logos/pandas.svg" alt="Pandas" width="50" height="50"/>
+        <br>Pandas
+      </td>
+      <td align="center">
+        <img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" alt="NumPy" width="50" height="50"/>
+        <br>NumPy
+      </td>
+      <td align="center">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="50" height="50"/>
+        <br>AWS
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=gcp" alt="GCP" width="50" height="50"/>
+        <br>GCP
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="50" height="50"/>
+        <br>Scikit-learn
+      </td>
+      <td align="center">
+        <img src="https://cdn.worldvectorlogo.com/logos/apache-spark-5.svg" alt="Spark" width="50" height="50"/>
+        <br>Spark
+      </td>
+      <td align="center">
+        <img src="https://cdn.worldvectorlogo.com/logos/matplotlib-1.svg" alt="Matplotlib" width="50" height="50"/>
+        <br>Matplotlib
+      </td>
+      <td align="center">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="SQL" width="50" height="50"/>
+        <br>SQL
+      </td>
+      <td align="center">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50"/>
+        <br>Docker
+      </td>
+      <td align="center">
+        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="50" height="50"/>
+        <br>Kubernetes
+      </td>
+      <td align="center">
+        <img src="https://cdn.worldvectorlogo.com/logos/google-colaboratory.svg" alt="Colab" width="50" height="50"/>
+        <br>Colab
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=anaconda" alt="Anaconda" width="50" height="50"/>
+        <br>Anaconda
       </td>
     </tr>
   </tbody>
