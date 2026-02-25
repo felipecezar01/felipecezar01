@@ -178,8 +178,8 @@
         <br>Kubernetes
       </td>
       <td align="center">
-        <img src="https://cdn.worldvectorlogo.com/logos/google-colaboratory.svg" alt="Colab" width="50" height="50"/>
-        <br>Colab
+        <img src="jupyter.png" alt="Jupyter" width="50" height="50"/>
+        <br>Jupyter
       </td>
       <td align="center">
         <img src="https://skillicons.dev/icons?i=anaconda" alt="Anaconda" width="50" height="50"/>
